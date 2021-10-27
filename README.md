@@ -9,3 +9,6 @@ Tutorial: https://www.youtube.com/watch?v=hQjlM-8C4Ps&t=3035s
 - Create GMAIL service and copy the service ID: https://dashboard.emailjs.com/admin
 - Create email template and copy the template ID: https://dashboard.emailjs.com/admin/templates
 - Copy the User integration ID: https://dashboard.emailjs.com/admin/integration
+
+## ERROR 
+- the screen1 to screen6 images are not displayed !!
