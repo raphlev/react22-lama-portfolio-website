@@ -1,32 +1,39 @@
+import Screen1 from "./img/screen1.png";
+import Screen2 from "./img/screen2.png";
+import Screen3 from "./img/screen3.png";
+import Screen4 from "./img/screen4.png";
+import Screen5 from "./img/screen5.png";
+import Screen6 from "./img/screen6.png";
+
 export const products = [
   {
     id: 1,
-    img: "../../img/screen1.png",
+    img: Screen1,
     link: "https://www.wix.com/",
   },
   {
     id: 2,
-    img: "../../img/screen2.png",
+    img: Screen2,
     link: "https://www.wix.com/",
   },
   {
     id: 3,
-    img: "../../img/screen3.png",
+    img: Screen3,
     link: "https://www.wix.com/",
   },
   {
     id: 4,
-    img: "../../img/screen4.png",
+    img: Screen4,
     link: "https://www.wix.com/",
   },
   {
     id: 5,
-    img: "../../img/screen5.png",
+    img: Screen5,
     link: "https://www.wix.com/",
   },
   {
     id: 6,
-    img: "../../img/screen6.png",
+    img: Screen6,
     link: "https://www.wix.com/",
   },
 ];
